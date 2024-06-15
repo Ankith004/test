@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+@media only screen and (max-width:500px) {
+    /* For mobile phones: */
+    .bad{
+      width: 5%;
+    }
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .bad {
+    width: 100%;
+  }
+}
+body{
+    
+    background-image: url(fr.png) ;opacity: 60;
+    height: 40px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+    
+}
+.nav{
+    /* align-items: center;
+  margin-left: 400px;
+  padding-bottom: 30px; */
+  width: 100px;
+
+}
+.mtr{
+    padding-left: 100px;
+    /* align-items: center;
+    align-content: center;   */
+    -webkit-text-fill-color: rgb(251, 214, 160); 
+    text-align: center;
+    background-size: cover;
+}
+.tti{
+    /* padding-left: 100px; */
+    /* align-items: center;
+    align-content: center; */
+    -webkit-text-fill-color: rgb(251, 214, 160); 
+    text-align: center;
+}
+.fea{
+     text-align: center;
+     -webkit-text-fill-color: rgb(251, 214, 160); 
+}
+.col{
+    text-align: center;
+    align-items: initial;
+}
+.dd{
+
+    text-align: center;
+}
+.sem{
+    /* position: relative;
+    left: 50px; */
+    padding-left: 100px;
+    text-align: center;
+    -webkit-text-fill-color: rgb(251, 214, 160); 
+}
+.sdf{
+    /* position: relative;
+    left: 50px; */
+    padding-left: 100px;
+    text-align: center;
+    -webkit-text-fill-color: rgb(251, 214, 160); 
+}
+.abd{
+    /* position: relative;
+    left: 50px; */
+    padding-left: 100px;
+    text-align: center;
+    -webkit-text-fill-color: rgb(251, 214, 160); 
+
+}
+.vk{
+    /* position: relative;
+    left: 10px; */
+    padding-left: 100px;
+    text-align: center;
+    -webkit-text-fill-color: rgb(251, 214, 160); 
+}
+.foot{
+    padding-right: 100px;
+    background-color: black;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.gg{
+    text-align: center;
+    margin-left: 620px;
+}
+.back{
+    width: 100px;
+}
